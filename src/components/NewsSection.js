@@ -73,7 +73,7 @@ export default function NewsSection() {
                   src={item.image}
                   alt={item.title}
                   fill
-                  className="object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700"
+                  className="object-cover  group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700"
                 />
                 <div className="absolute inset-0 bg-linear-to-t from-black to-transparent opacity-60"></div>
 
